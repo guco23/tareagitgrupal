@@ -5,6 +5,6 @@ public class Main {
 		System.out.println("Esto es un cambio en el proyecto");
 		System.out.println("Cambio Alejandro");
 		System.out.println("Cambio Dani");
-		System.out.println("Cambio Diego Terán");
+		System.out.println("Cambio Diego T");
 	}
 }
